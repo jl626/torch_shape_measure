@@ -1,5 +1,5 @@
-# shape_metrics
-shape evaluation metrics for comparing different algorithms
+# shape_metrics for PyTorch
+PyTorch version of shape evaluation metrics
 
 Currently supports EMD (Wasserstein), Chamfer metrics. 
 
