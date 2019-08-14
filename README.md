@@ -1,7 +1,7 @@
 # Shape Evaluation Metrics for PyTorch
 PyTorch version of shape evaluation metrics
 
-Currently supports EMD (Wasserstein), Chamfer metrics. 
+Currently supports EMD (Wasserstein), Chamfer metrics and Varifold pseudo-metric
 
 ## Install
 
